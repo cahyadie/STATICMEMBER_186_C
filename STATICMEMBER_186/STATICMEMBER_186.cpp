@@ -9,7 +9,7 @@ public:
 	string nama;
 
 	void setID();
-	void printAI();
+	void printAll();
 	mahasiswa(string pnama) :nama(pnama) { setID(); }
 };
 
