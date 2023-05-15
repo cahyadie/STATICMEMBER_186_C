@@ -16,3 +16,8 @@ public:
 	}
 } bukunya;
 
+int main()
+{
+	cout << bukunya.setJudul("Matematika").GetJudul();
+	return 0;
+}
