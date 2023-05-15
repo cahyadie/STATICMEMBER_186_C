@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Destrucktor_186", "Destruck
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChainFungsion_186", "ChainFungsion_186\ChainFungsion_186.vcxproj", "{7785DE51-F902-4456-922A-0597DCD2250E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrstaticfunc_186", "mbrstaticfunc_186\mbrstaticfunc_186.vcxproj", "{646D23F1-A621-4314-8E34-9B43D7FAEE4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{7785DE51-F902-4456-922A-0597DCD2250E}.Release|x64.Build.0 = Release|x64
 		{7785DE51-F902-4456-922A-0597DCD2250E}.Release|x86.ActiveCfg = Release|Win32
 		{7785DE51-F902-4456-922A-0597DCD2250E}.Release|x86.Build.0 = Release|Win32
+		{646D23F1-A621-4314-8E34-9B43D7FAEE4D}.Debug|x64.ActiveCfg = Debug|x64
+		{646D23F1-A621-4314-8E34-9B43D7FAEE4D}.Debug|x64.Build.0 = Debug|x64
+		{646D23F1-A621-4314-8E34-9B43D7FAEE4D}.Debug|x86.ActiveCfg = Debug|Win32
+		{646D23F1-A621-4314-8E34-9B43D7FAEE4D}.Debug|x86.Build.0 = Debug|Win32
+		{646D23F1-A621-4314-8E34-9B43D7FAEE4D}.Release|x64.ActiveCfg = Release|x64
+		{646D23F1-A621-4314-8E34-9B43D7FAEE4D}.Release|x64.Build.0 = Release|x64
+		{646D23F1-A621-4314-8E34-9B43D7FAEE4D}.Release|x86.ActiveCfg = Release|Win32
+		{646D23F1-A621-4314-8E34-9B43D7FAEE4D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
